@@ -1,0 +1,7 @@
+Django
+mysqlclient
+pillow
+crispy-bootstrap5
+django-crispy-forms
+django-ckeditor
+django-embed-video
